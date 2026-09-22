@@ -1,0 +1,7 @@
+.DS_Store
+
+# Privacy policy and terms of use — drafts pending legal review.
+# This repository is PUBLIC (GitHub Free for organizations cannot serve Pages
+# from a private repo), so unreviewed legal text for a banking product must
+# not be committed here. Publish them in one commit once counsel signs off.
+legal-drafts/
